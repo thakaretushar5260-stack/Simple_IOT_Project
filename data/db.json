@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "usr_tushar_01",
+      "name": "Tushar",
+      "email": "tushar@example.com",
+      "passwordHash": "$2a$10$wN9aA7h3sN/jVl9W7J3B3.5b9EsmkI5Hw9Vj4sN.aA7h3sN/jVl9W",
+      "createdAt": "2026-10-03T07:00:00.000Z"
+    },
+    {
+      "id": "usr_mus445fq",
+      "name": "Tushar Anil Thakare",
+      "email": "thakaretushar5260@gmail.com",
+      "passwordHash": "$2a$10$zGJxChH.IL0/Onl/FjjZQeaHssJqH2xWYUtagSGZqAmHKywRlxXVC",
+      "createdAt": "2026-10-03T08:10:45.254Z"
+    }
+  ],
+  "deviceState": {
+    "ledStatus": "ON",
+    "lcdLine1": "Simple IoT World",
+    "lcdLine2": "Welcome Tushar",
+    "lastPing": 1791013113357
+  },
+  "currentReading": {
+    "temperature": 37.5,
+    "humidity": 62,
+    "lastUpdated": "2026-10-03T07:38:33.357Z"
+  },
+  "sensorRecords": [
+    {
+      "id": "rec_mus2yqsd_1nk",
+      "temperature": 37.5,
+      "humidity": 62,
+      "timestamp": 1791013113357,
+      "time": "01:08 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_001",
+      "temperature": 34,
+      "humidity": 50,
+      "timestamp": 1791012600000,
+      "time": "01:30 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_002",
+      "temperature": 35,
+      "humidity": 49,
+      "timestamp": 1791013200000,
+      "time": "01:40 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_003",
+      "temperature": 36,
+      "humidity": 52,
+      "timestamp": 1791013800000,
+      "time": "01:50 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_004",
+      "temperature": 33,
+      "humidity": 55,
+      "timestamp": 1791014400000,
+      "time": "02:00 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_005",
+      "temperature": 34,
+      "humidity": 53,
+      "timestamp": 1791015000000,
+      "time": "02:10 PM",
+      "date": "03-10-2026"
+    }
+  ]
+}
